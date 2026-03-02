@@ -2,7 +2,7 @@
 <h3 align="center">Senior Android Engineer · 9 Years Experience · Kotlin • Jetpack Compose • Clean Architecture</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nyadavpin2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yadavpin2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:imnirajyadav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/nyadav1992"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -112,7 +112,7 @@
 
 ## 📫 Get In Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/nyadavpin2)
+- 💼 [LinkedIn](https://linkedin.com/in/yadavpin2)
 - 📧 imnirajyadav@gmail.com
 - 📞 +91-9411049464
 
